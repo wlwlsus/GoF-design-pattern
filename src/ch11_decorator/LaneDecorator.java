@@ -1,4 +1,4 @@
-package ch10_decorator;
+package ch11_decorator;
 
 public class LaneDecorator extends DisplayDecorator{
     public LaneDecorator(Display decoratedDisplay) {
