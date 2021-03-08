@@ -1,4 +1,4 @@
-package ch13_visitor;
+package ch12_visitor;
 
 public class VisitableA implements Visitable{
     private int age;

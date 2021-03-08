@@ -1,4 +1,4 @@
-package ch13_visitor;
+package ch12_visitor;
 
 public class VisitorA implements Visitor {
 
